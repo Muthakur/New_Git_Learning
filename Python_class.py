@@ -17,4 +17,4 @@ s.show()             #accesing using object
 print(s.name)        #By object
 print(student.roll)  #accesing static variable using class name 
 
-s1=student("Raj",2)  
+#s1=student("Raj",2)  
